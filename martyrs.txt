@@ -1,0 +1,27 @@
+Name,Age,Location,Date of Death,Gender,Status
+M10,26,Ramallah,1/21/2023,M,Single
+M20,21,Ramallah,2/22/2023,M,Single
+M30,22,Ramallah,2/22/2023,M,Married
+M40,16,Ramallah,3/23/2023,M,Single
+M50,36,Ramallah,4/24/2023,M,Married
+M65,26,Hebron,1/30/2023,M,Single
+M64,26,Hebron,1/30/2023,M,Married
+M63,26,Hebron,1/30/2023,M,Single
+M62,26,Hebron,2/3/2023,M,Married
+M61,26,Hebron,2/3/2023,M,Single
+M60,26,Hebron,3/3/2023,M,Married
+M70,16,Nablus,1/22/2022,M,Single
+M71,16,Nablus,1/22/2022,M,Single
+M72,16,Nablus,1/22/2022,M,Single
+M76,16,Nablus,1/22/2022,M,Single
+M75,16,Nablus,1/22/2022,M,Single
+M74,16,Nablus,1/22/2022,M,Single
+M73,16,Nablus,1/22/2022,M,Single
+M88,26,Jenin,1/30/2023,M,Married
+M87,26,Jenin,2/30/2023,M,Single
+M86,26,Jenin,3/30/2023,M,Married
+M81,26,Jenin,4/30/2023,M,Single
+M82,26,Jenin,5/30/2023,M,Married
+M83,26,Jenin,6/30/2023,M,Single
+M84,26,Jenin,7/30/2023,M,Married
+M85,26,Jenin,8/30/2023,M,Single
